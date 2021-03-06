@@ -1,2 +1,2 @@
-# Template
-This is a template I created to be used when building packages.
+# Arabic Markdown
+This repostory is only to experiment with Arabic Markdown
